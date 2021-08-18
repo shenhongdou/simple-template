@@ -1,0 +1,28 @@
+{
+  "name": "simple-template",
+  "version": "1.0.0",
+  "description": "simple-template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shenhongdou/simple-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shenhongdou/simple-template/issues"
+  },
+  "homepage": "https://github.com/shenhongdou/simple-template#readme",
+  "dependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/parser": "^7.15.3",
+    "@babel/preset-env": "^7.15.0",
+    "@babel/traverse": "^7.15.0",
+    "webpack": "^5.50.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
